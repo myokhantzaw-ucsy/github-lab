@@ -1,3 +1,0 @@
-Fe00: version 2.1
-Fe00: version 2.2
-Fe00: version 2.3
